@@ -1,0 +1,10 @@
+{
+  "name": "lucerne-geo-ai-searching-tool",
+  "version": "1.0.0",
+  "private": true,
+  "license": "GPL-3.0-or-later",
+  "copyright": "Copyright by Dr. René Bäder (PhDs)",
+  "dependencies": {
+    "topojson-client": "^3.1.0"
+  }
+}
