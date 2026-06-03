@@ -2,7 +2,7 @@
 
 Copyright by Dr. René Bäder (PhDs)
 
-Lucerne Geo-AI Searching Tool ist eine lokale Web-Applikation fuer Standort- und Grundstuecksanalysen im Kanton Luzern. Die Anwendung kombiniert offizielle Geodaten wie WFS-Layer und OEREB-Auszug mit KI-gestuetzten Auswertungen.
+Lucerne Geo-AI Searching Tool ist eine Web-Applikation fuer Standort- und Grundstuecksanalysen im Kanton Luzern. Die Anwendung kombiniert offizielle Geodaten wie WFS-Layer und OEREB-Auszug mit KI-gestuetzten Auswertungen.
 
 ## Kernfunktionen
 
